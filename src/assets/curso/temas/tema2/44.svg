@@ -1,0 +1,39 @@
+<svg id="Grupo_257483" data-name="Grupo 257483" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="823.994" height="405.986" viewBox="0 0 823.994 405.986">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_323600" data-name="Rectángulo 323600" width="823.994" height="405.986" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_257480" data-name="Grupo 257480">
+    <g id="Grupo_257479" data-name="Grupo 257479" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_323599" data-name="Rectángulo 323599" width="823.031" height="357.844" transform="translate(0.482 47.661)" fill="none" stroke="#dbdbdd" stroke-miterlimit="10" stroke-width="0.963"/>
+    </g>
+  </g>
+  <rect id="Rectángulo_323601" data-name="Rectángulo 323601" width="822.687" height="47.66" transform="translate(0.943)" fill="#e2e8ec"/>
+  <rect id="Rectángulo_323602" data-name="Rectángulo 323602" width="822.687" height="34.117" transform="translate(0.943 119.072)" fill="#e2e8ec"/>
+  <text id="Orden_de_producción" data-name="Orden de producción" transform="translate(326.673 33.087)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">O</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">den de p</tspan><tspan y="0" letter-spacing="-0.017em">r</tspan><tspan y="0">oducción</tspan></text>
+  <text id="Materiales" transform="translate(116.48 140.798)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Materiales</tspan></text>
+  <text id="TOTAL" transform="translate(23.745 333.455)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.013em">T</tspan><tspan y="0" letter-spacing="-0.041em">O</tspan><tspan y="0" letter-spacing="-0.058em">T</tspan><tspan y="0">AL</tspan></text>
+  <text id="TOTAL-2" data-name="TOTAL" transform="translate(333.937 333.455)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.013em">T</tspan><tspan y="0" letter-spacing="-0.041em">O</tspan><tspan y="0" letter-spacing="-0.058em">T</tspan><tspan y="0">AL</tspan></text>
+  <text id="Total_costo_orden" data-name="Total costo orden" transform="translate(32.849 381.455)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.101em">T</tspan><tspan y="0">otal cos</tspan><tspan y="0" letter-spacing="-0.012em">t</tspan><tspan y="0">o o</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">den</tspan></text>
+  <text id="Costo_unitario" data-name="Costo unitario" transform="translate(332.849 381.455)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cos</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">o unitario</tspan></text>
+  <text id="TOTAL-3" data-name="TOTAL" transform="translate(637.952 334.159)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.013em">T</tspan><tspan y="0" letter-spacing="-0.041em">O</tspan><tspan y="0" letter-spacing="-0.058em">T</tspan><tspan y="0">AL</tspan></text>
+  <text id="Cantidad" transform="translate(131.249 175.742)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cantidad</tspan></text>
+  <text id="Costo" transform="translate(239.232 175.742)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cos</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">o</tspan></text>
+  <text id="Cantidad-2" data-name="Cantidad" transform="translate(435.44 175.742)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cantidad</tspan></text>
+  <text id="Costo-2" data-name="Costo" transform="translate(543.425 175.742)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cos</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">o</tspan></text>
+  <text id="Costo-3" data-name="Costo" transform="translate(748.305 175.742)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cos</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">o</tspan></text>
+  <text id="Mano_de_obra_directa" data-name="Mano de obra directa" transform="translate(387.36 140.782)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Mano de ob</tspan><tspan y="0" letter-spacing="-0.013em">r</tspan><tspan y="0">a di</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">ecta</tspan></text>
+  <text id="Costos_indirectos" data-name="Costos indirectos" transform="translate(661.952 140.782)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cos</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">os indi</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">ec</tspan><tspan y="0" letter-spacing="-0.014em">t</tspan><tspan y="0">os</tspan></text>
+  <text id="Unidades" transform="translate(14.513 69.567)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Unidades</tspan></text>
+  <text id="Estado" transform="translate(14.513 87.567)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Estado</tspan></text>
+  <text id="Producto" transform="translate(14.513 105.567)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">P</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">oduc</tspan><tspan y="0" letter-spacing="-0.008em">t</tspan><tspan y="0">o</tspan></text>
+  <text id="No._Orden" data-name="No. Orden" transform="translate(627.744 69.567)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">No. O</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">den</tspan></text>
+  <line id="Línea_910" data-name="Línea 910" y2="229.949" transform="translate(306.081 121.253)" fill="none" stroke="#dbdbdd" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Línea_911" data-name="Línea 911" y2="231.947" transform="translate(620.928 119.072)" fill="none" stroke="#dbdbdd" stroke-miterlimit="10" stroke-width="1.004"/>
+  <g id="Grupo_257482" data-name="Grupo 257482">
+    <g id="Grupo_257481" data-name="Grupo 257481" clip-path="url(#clip-path)">
+      <line id="Línea_912" data-name="Línea 912" x2="822.569" y2="0.183" transform="translate(0.943 351.019)" fill="none" stroke="#dbdbdd" stroke-miterlimit="10" stroke-width="1.001"/>
+    </g>
+  </g>
+</svg>
