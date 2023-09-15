@@ -28,10 +28,6 @@
 
     p.mb-5(data-aos="fade-left") Las empresas pueden clasificarse según diversos criterios, y así, abordar definiciones, estrategias y medidas de forma conjunta en función de las necesidades de cada usuario. La siguiente figura infográfica presenta algunos de los sistemas de clasificación más utilizados en nuestro entorno:
 
-    .titulo-sexto.color-acento-contenido.offset-2
-      h5 Figura 1
-      span #[em Clasificación de las empresas]
-
     ImagenInfografica.color-secundario.mb-5.desktop
       template(v-slot:imagen)
         figure(data-aos="flip-up")
@@ -190,23 +186,23 @@
     .titulo-segundo.color-secundario
       h2#t_1_2 1.2  Recursos
 
-    p(data-aos="fade-left") Según Planas (2018), las empresas funcionan como sistemas abiertos, en donde obtienen recursos del ambiente como lo son las materias primas o el capital, y que suelen ser conocidas como entradas o “inputs” por su traducción al inglés. Esto puede aterrizarse a ejemplos como la compra de leche en una productora de alimentos, como materias primas que luego son transformadas para reintegrarse al entorno en forma de salidas o “outputs”. Continuando con el ejemplo, la leche se sometería a un proceso productivo para venderse en forma de queso o mantequilla.
+    p(data-aos="fade-left") Según Planas (2018), las empresas funcionan como sistemas abiertos, en donde obtienen recursos del ambiente como lo son las materias primas o el capital, y que suelen ser conocidas como entradas o #[i “inputs”] por su traducción al inglés. Esto puede aterrizarse a ejemplos como la compra de leche en una productora de alimentos, como materias primas que luego son transformadas para reintegrarse al entorno en forma de salidas o #[i “outputs”]. Continuando con el ejemplo, la leche se sometería a un proceso productivo para venderse en forma de queso o mantequilla.
     p(data-aos="fade-left") El ciclo debe ser supervisado de manera permanente de tal forma que se garantice el cumplimiento de las estrategias propuestas por los directivos. Al fin y al cabo, en el desarrollo operativo de la empresa, siempre se deberá velar por el cumplimiento de las expectativas de sus dueños, por lo que estos sistemas de control aportarán la retroalimentación necesaria para pulir el proceso productivo e incrementar las ganancias esperadas con el paso del tiempo. 
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Figura 2
+      h5 Figura 1
       span #[em Empresas como sistema]
 
     .row.justify-content-center 
       .col-lg-10
         figure(data-aos="fade-right").desktop
-          img(src='@/assets/curso/temas/tema1/6.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/6.svg', alt='En la figura se observa en el sistema el proceso de transformación, la empresa, el sistema de control, y la parte exterior al inicio y al final.')
           figcaption Nota. Adaptado de Planas Flores, (2018). 
 
     .row.justify-content-center 
       .col-lg-10
         figure(data-aos="fade-right").movil
-          img(src='@/assets/curso/temas/tema1/7.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/7.svg', alt='En la figura se observa en el sistema el proceso de transformación, la empresa, el sistema de control, y la parte exterior al inicio y al final.')
           figcaption Nota. Adaptado de Planas Flores, (2018). 
 
     .row.justify-content-center.mt-5.mb-5 
@@ -217,10 +213,6 @@
         p(data-aos="fade-left") Las fuentes de obtención de recursos suelen ser otras empresas que se ubican en un eslabón anterior en la cadena productiva. Así, cada organización cuenta con proveedores que ofrecen insumos o acreedores que aportan capital necesarios para mantener la empresa en funcionamiento, del mismo modo, al final del proceso se encuentran los clientes que adquieren los nuevos bienes transformados, estos pueden ser consumidores finales, como lo es un niño que compra una golosina en una tienda, o un siguiente eslabón de la cadena productiva de distribución, como lo son las empresas pertenecientes al sector terciario de la economía (compran para vender).
         p(data-aos="fade-left") La mecánica descrita deja en claro que los recursos son el combustible para que una organización se mantenga activa, es por ello que el término toma tanta relevancia a la hora de concebir la gestión administrativa asociada a los procesos productivos. Diversos autores sugieren su clasificación en función de su naturaleza, así pues, se propone y detalla la siguiente clasificación dada su amplia aceptación en el ámbito organizacional:
 
-    .titulo-sexto.color-acento-contenido.offset-2
-      h5 Figura 3
-      span #[em Recursos de una empresa]
-    
     ImagenInfografica.color-secundario.mb-5.desktop
       template(v-slot:imagen)
         figure(data-aos="flip-up")
@@ -323,18 +315,18 @@
     p.mb-5.mt-5(data-aos="fade-left") Se espera que el resultado final sea expresado en indicadores financieros, que permitan comprender los aspectos más relevantes de la operación, como lo son las unidades a producir, los tiempos y niveles esperados de recaudo, entre otros. La siguiente figura presenta un diagrama que recrea la mecánica de la estimación presupuestal:
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Figura 4
+      h5 Figura 2
       span #[em Enfoques de tiempo de la información productiva]
 
     .row.justify-content-center
       .col-lg-10.desktop
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema1/12.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/12.svg', alt='En la figura se observa información histórica, información actual, información proyectada, luego se tiene el ayer, hoy y mañana, y al finalizar se tiene historia, presente y futuro.')
 
     .row.justify-content-center
       .col-lg-10.movil
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema1/13.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/13.svg', alt='En la figura se observa información histórica, información actual, información proyectada, luego se tiene el ayer, hoy y mañana, y al finalizar se tiene historia, presente y futuro.')
 
 
     separador
@@ -403,18 +395,18 @@
     p.mb-5(data-aos="fade-left") Adicionalmente el Ministerio de Trabajo (2018), publicó un diagrama donde aclara como debe ser implementado el sistema a partir del año 2020, por lo que se hace necesaria la lectura e interpretación de los requerimientos mínimos normativos para implementar el modelo aplicable a cualquier empresa productora, ver figura.
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Figura 5
+      h5 Figura 3
       span #[em Implementación definitiva del sistema de gestión y seguridad y salud en el trabajo desde el año 2020 en adelante]
 
     .row.justify-content-center
       .col-lg-10.desktop
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema1/20.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/20.svg', alt='En la figura se observa plan anual para el año 2020, 2021 y 2022.')
 
     .row.justify-content-center
       .col-lg-10.movil
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema1/21.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/21.svg', alt='En la figura se observa plan anual para el año 2020, 2021 y 2022.')
             
       
 </template>

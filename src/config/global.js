@@ -231,22 +231,11 @@ export default {
   referencias: [
     {
       referencia:
-        'Guarnizo, F. C. y Cárdenas, S. M. (2015). Costos por órdenes de producción y por procesos. La Salle.',
-      link:
-        'https://es.scribd.com/book/485288049/Costos-por-ordenes-de-produccion-y-por-procesos',
-    },
-    {
-      referencia:
         'Ministerio de Comercio, Industria y Turismo. (2019). Decreto 957 de 2019 [Decreto]. Por el cual se adiciona el capítulo 13 al Título 1 de la Parte 2 del Libro 2 del Decreto 1074 de 2015, Decreto Único del Sector Comercio, Industria y Turismo.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=94550',
     },
-    {
-      referencia:
-        'Ministerio del trabajo. (2019). Cotización a la Seguridad Social – Aportes. ',
-      link:
-        'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-de-formalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridad-social-aportes',
-    },
+
     {
       referencia:
         'Ministerio del trabajo. (2019). Implementación de los sistemas de gestión de seguridad y salud en el trabajo al año 2020.',
@@ -258,12 +247,7 @@ export default {
         'Oliveros, R. (2016). Ms Excel 5 Fórmulas nómina completa [Video]. YouTube.',
       link: 'https://www.youtube.com/watch?v=KdZLNPyLGmk ',
     },
-    {
-      referencia:
-        'Planas F. E. (2018). Todo sobre la gestión de su empresa. Editorial de Vecchi. ',
-      link:
-        'https://es.scribd.com/read/388236109/Todo-sobre-la-gestion-de-su-empresa',
-    },
+
     {
       referencia:
         'Presidencia de la República. (1951). Decreto ley 3743 de 1951 [Decreto ley]. Por el cual se expide el Código Sustantivo del Trabajo.',
@@ -275,12 +259,6 @@ export default {
         'Presidencia de la República. (1971). Decreto 410 de 1971 [Decreto]. Por el cual se expide el Código de Comercio.',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
-    },
-    {
-      referencia:
-        'Rincón C. y Narváez J. (2017) Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. Ediciones de la U.',
-      link:
-        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
     },
   ],
   creditos: [

@@ -48,18 +48,18 @@
     p(data-aos="fade-left").mt-5.mb-5 Para ilustrar la información anterior, se presenta la siguiente figura sobre el proceso de producción de la leche en una granja pecuaria:
 
     .titulo-sexto.color-acento-contenido.offset-1
-      h5 Figura 5
+      h5 Figura 4
       span #[em Etapas en la producción de leche]
 
     .row.justify-content-center
       .col-lg-10.desktop
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema2/5.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/5.svg', alt='En la figura se observa las etapas de acopio, producción y acondicionamiento.')
 
     .row.justify-content-center
       .col-lg-10.movil
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema2/6.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/6.svg', alt='En la figura se observa las etapas de acopio, producción y acondicionamiento.')
 
 
     separador
@@ -233,19 +233,19 @@
         p(data-aos="fade-left") La siguiente figura, aborda los cuatro componentes principales del marketing analítico y algunas de las actividades que pueden tenerse en cuenta para documentar el plan de mercadeo.
 
     .titulo-sexto.color-acento-contenido.offset-1
-      h5 Figura 6
+      h5 Figura 5
       span #[em Componentes del Marketing analítico]
 
     .row.justify-content-center
       .col-lg-10.desktop
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema2/11.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/11.svg', alt='En la figura se observa análisis interno, análisis externo, estudio de mercado y análisis FODA.')
           figcaption Nota. Ministerio del trabajo (2018).
 
     .row.justify-content-center
       .col-lg-10.movil
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema2/12.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/12.svg', alt='En la figura se observa análisis interno, análisis externo, estudio de mercado y análisis FODA.')
           figcaption Nota. Ministerio del trabajo (2018).
 
     .row.justify-content-center
@@ -362,19 +362,19 @@
     p(data-aos="fade-left") En la siguiente figura se presentan a modo orientativo algunos de los elementos que constituyen el costo de la materia prima, separadas en función de la fase en la que esta se encuentra dentro de la producción:
 
     .titulo-sexto.color-acento-contenido.offset-1
-      h5 Figura 7
+      h5 Figura 6
       span #[em Costos asociados a la materia prima]
 
     .row.justify-content-center
       .col-lg-10.desktop
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema2/21.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/21.svg', alt='En la figura se observa costos como compras, mantenimiento, administración y faltantes.')
           figcaption Nota. Adaptado de Guarnizo y Cárdenas (2015).
 
     .row.justify-content-center
       .col-lg-10.movil
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema2/22.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/22.svg', alt='En la figura se observa costos como compras, mantenimiento, administración y faltantes.')
           Figcaption Nota. Adaptado de Guarnizo y Cárdenas (2015).
 
     .row.justify-content-center.mt-5 
@@ -532,7 +532,8 @@
                     i.fas.fa-file-download
 
     .titulo-sexto.color-acento-contenido.offset-1
-      h5 Tabla 1 #[em Comparativa sistemas de valuación de inventario]
+      h5 Tabla 3 
+      span #[em Comparativa sistemas de valuación de inventario]
 
     .row.justify-content-center 
       .col-10
@@ -646,7 +647,8 @@
         p(data-aos="fade-left") La siguiente tabla, relaciona todos los factores prestacionales a tener presentes a la hora de calcular el costo de la mano de obra:
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 2 #[em Factores prestacionales]
+      h5 Tabla 4
+      span #[em Factores prestacionales]
     
     .row.justify-content-center 
       .col-8
@@ -678,7 +680,8 @@
         p(data-aos="fade-left") Por otra parte, de forma adicional a lo mencionado previamente, los contratos laborales también obligan a los empleadores a asumir costos por la seguridad social del empleado, el artículo “Cotización a la Seguridad Social – Aportes” publicado por el ministerio de trabajo aporta la siguiente tabla:
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 3 #[em Aportes obligatorios a seguridad social]
+      h5 Tabla 5
+      span #[em Aportes obligatorios a seguridad social]
     
     .row.justify-content-center 
       .col-8
@@ -733,7 +736,8 @@
               p Operario 2:  Salario Básico de 1.500.000
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 4 #[em Liquidación costo mensual empleado]
+      h5 Tabla 6
+      span #[em Liquidación costo mensual empleado]
     
     .row.justify-content-center 
       .col-8
@@ -855,7 +859,8 @@
 
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 5 #[em Costo de mano de obra por hora]
+      h5 Tabla 7
+      span #[em Costo de mano de obra por hora]
 
     .row.justify-content-center 
       .col-8
@@ -928,7 +933,8 @@
         p(data-aos="fade-left") El criterio del encargado del cálculo de los costos deberá aplicar la distribución en base a su criterio, algunas de las opciones más utilizadas son las unidades producidas, o las horas de trabajo destinadas a cada tipo de producto. El siguiente ejemplo, ver tabla, ilustra una situación de este estilo:
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 6 #[em Costos indirectos de fabricación mensuales]
+      h5 Tabla 8
+      span #[em Costos indirectos de fabricación mensuales]
 
     .row.justify-content-center 
       .col-8
@@ -957,7 +963,8 @@
         p(data-aos="fade-left") Las unidades producidas requirieron de diferente cantidad de tiempo de trabajo por los dos operarios que se presentaron en el caso de la mano de obra así, ver tabla:
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 7 #[em Hoja de producción con horas de trabajo]
+      h5 Tabla 9
+      span #[em Hoja de producción con horas de trabajo]
 
     .row.justify-content-center 
       .col-8
@@ -987,7 +994,8 @@
         p(data-aos="fade-left") Para definir los costos indirectos de fabricación de cada línea, será necesario prorratear con base en las horas de trabajo destinadas a cada línea de producto, posteriormente, y en función de las unidades elaboradas, se podrá definir el costo indirecto de fabricación unitario para cada tipo de producto, ver tabla.
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 8 #[em Hoja de producción con horas de trabajo]
+      h5 Tabla 10
+      span #[em Hoja de producción con horas de trabajo]
 
     .row.justify-content-center 
       .col-8
@@ -1027,10 +1035,14 @@
     p(data-aos="fade-left") Las órdenes de producción, también conocidas como órdenes de pedido, suelen ser utilizadas en empresas en las que la línea de producción no opera de manera permanente. Bajo este sistema, la determinación del coste de un lote de producto terminado se estima de forma independiente a otros, por lo que pueden existir variaciones en el costo de venta unitario entre una y otra orden.
     p(data-aos="fade-left") Este sistema ofrece una gran utilidad en unidades productivas que trabajan por encargo, puesto que las mediciones varían en función de la situación actual. El siguiente formato propone un esquema para utilizar bajo esta metodología; su diligenciamiento suele ser precedido por una solicitud comercial, es decir, el área de ventas indica la unidad de productos vendidos, y de cara a esto, el departamento de producción determina el costo unitario de cara a las exigencias presentadas, ver tabla
 
+    .titulo-sexto.color-acento-contenido.offset-2
+      h5 Tabla 11
+      span #[em Ejemplo de orden de producción]
+    
     .row.justify-content-center.mt-5 
       .col-md-8
         figure
-          img(src='@/assets/curso/temas/tema2/44.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/44.svg', alt='En la tabla se observa el formato para orden de producción, que incluye materiales, mano de obra directa, costos indirectos, en cantidad y costo.')
           figcaption Nota. Guarnizo Cuellar y Cárdenas (2015).
 
     h3.titulo-tercero.mt-5 2.7.1	Características
@@ -1079,14 +1091,15 @@
           p(data-aos="fade-left") Los costos indirectos mensuales de la granja son los siguientes: por concepto de aseo y desinfección de la granja: $ 1.500.000, el pago de servicios públicos (agua y luz) es en promedio de $ 400.000 y por último, el costo de la medicación y tratamiento veterinario asciende a $ 800.000. Al igual que con la mano de obra, se debe practicar la proporción para una sola semana de producción, ver tabla.
 
     .titulo-sexto.color-acento-contenido.offset-2
-      h5 Tabla 9 #[em Ejemplo de orden de producción]
+      h5 Tabla 12
+      span #[em Ejemplo de orden de producción]
 
     .row.justify-content-center 
       .col-8
         figure
-          img(src='@/assets/curso/temas/tema2/47.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/47.svg', alt='En la tabla se observa una orden de producción incluyendo materiales, mano de obra directa, costos indirectos.')
 
-    p.mb-5(data-aos="fade-left") Del formato anterior se desprende que lo que se busca con la orden de producción es determinar las cantidades y el costo de los insumos necesarios para producir lo solicitado. Con esta información, se puede estimar un costo unitario y a partir de ello, establecer un margen de rentabilidad por cada litro de leche vendida.
+    p.mb-5.mt-5(data-aos="fade-left") Del formato anterior se desprende que lo que se busca con la orden de producción es determinar las cantidades y el costo de los insumos necesarios para producir lo solicitado. Con esta información, se puede estimar un costo unitario y a partir de ello, establecer un margen de rentabilidad por cada litro de leche vendida.
 
     .row.justify-content-center
       .col-lg-10
