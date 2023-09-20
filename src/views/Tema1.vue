@@ -228,7 +228,7 @@
         
       .tarjeta.color-acento-botones.p-3(x="17.4%" y="18%" numero="")
         .h5.mb-2 Directivos
-        p Se designan para actuar en representación de los propietarios, por lo que son los encargados de ejecutar las tareas programadas de forma continua, algunas veces son los mismo propietarios.  Comúnmente a través de un órgano llamado junta directiva o a través de las gerencias generales y específicas por área. Las decisiones que toman son de nivel estratégico dado que pueden involucrar desde un área hasta la totalidad de la compañía.
+        p Se designan para actuar en representación de los propietarios, por lo que son los encargados de ejecutar las tareas programadas de forma continua, algunas veces son los mismos propietarios.  Comúnmente a través de un órgano llamado junta directiva o a través de las gerencias generales y específicas por área. Las decisiones que toman son de nivel estratégico dado que pueden involucrar desde un área hasta la totalidad de la compañía.
 
       .tarjeta.color-acento-botones.p-3(x="17.4%" y="28.1%" numero="")
         .h5.mb-2 Trabajadores
@@ -276,7 +276,7 @@
 
       .tarjeta.color-acento-botones.p-3(x="96.1%" y="73.8%" numero="")
         .h5.mb-2 Fuentes de inversión
-        p Íncluyen los dineros obtenidos por actividades accesorias a la principal. Por ejemplo, el capital obtenido por medio de un contrato de arrendamiento, donde se han alquilado inmuebles que no se estaban utilizando, o la venta de inmuebles que se han valorizado en el tiempo, otorgando cierta rentabilidad. Esta categoría requiere especial atención, puesto que la continua obtención de recursos por esta vía puede llevar a la descapitalización a causa de la venta indiscriminada de activos.
+        p Incluyen los dineros obtenidos por actividades accesorias a la principal. Por ejemplo, el capital obtenido por medio de un contrato de arrendamiento, donde se han alquilado inmuebles que no se estaban utilizando, o la venta de inmuebles que se han valorizado en el tiempo, otorgando cierta rentabilidad. Esta categoría requiere especial atención, puesto que la continua obtención de recursos por esta vía puede llevar a la descapitalización a causa de la venta indiscriminada de activos.
 
     .row.justify-content-center.movil
       .col-lg-6
@@ -322,12 +322,13 @@
       .col-lg-10.desktop
         figure(data-aos="flip-up")
           img(src='@/assets/curso/temas/tema1/12.svg', alt='En la figura se observa información histórica, información actual, información proyectada, luego se tiene el ayer, hoy y mañana, y al finalizar se tiene historia, presente y futuro.')
+          figcaption Nota. Adaptado de Rincón y Narváez (2017).         
 
     .row.justify-content-center
       .col-lg-10.movil
         figure(data-aos="flip-up")
           img(src='@/assets/curso/temas/tema1/13.svg', alt='En la figura se observa información histórica, información actual, información proyectada, luego se tiene el ayer, hoy y mañana, y al finalizar se tiene historia, presente y futuro.')
-
+          figcaption Nota. Adaptado de Rincón y Narváez (2017).
 
     separador
     .titulo-segundo.color-secundario

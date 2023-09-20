@@ -224,13 +224,13 @@
             figure(data-aos="flip-up")
               img(src='@/assets/curso/temas/tema2/10.jpg', alt='Texto que describa la imagen')
           .col-sm-7
-            h5 • Marketing analítico
+            h5 • #[i Marketing] analítico
             p(data-aos="fade-left") En esta primera sección se debe hacer un análisis de la empresa, el mercado objetivo y la competencia. La información recolectada en esta etapa resulta de vital importancia para las medidas que se tomen posteriormente, puesto que las estrategias deben atacar aquellas amenazas o debilidades identificadas.
             p(data-aos="fade-left") Es recomendable que el estudio aborde los factores internos y externos de la empresa, lo que implica evaluar al personal de ventas, la reputación del producto, los precios de los bienes sustitutos, la demografía de la población, y cualquier otro factor que pueda inferir en los resultados comerciales. Es recomendable aplicar una matriz FODA que permita maniobrar con las fortalezas, oportunidades, debilidades y amenazas de forma efectiva.
 
     .row.justify-content-center.mt-5 
       .col-10
-        p(data-aos="fade-left") La siguiente figura, aborda los cuatro componentes principales del marketing analítico y algunas de las actividades que pueden tenerse en cuenta para documentar el plan de mercadeo.
+        p(data-aos="fade-left") La siguiente figura, aborda los cuatro componentes principales del #[i marketing] analítico y algunas de las actividades que pueden tenerse en cuenta para documentar el plan de mercadeo.
 
     .titulo-sexto.color-acento-contenido.offset-1
       h5 Figura 5
@@ -527,7 +527,7 @@
                 .col.mb-3.mb-sm-0
                   p.text-small En el Anexo 1_ Hoja de kárdex, podrá consultar ejemplos relacionados con este tipo de herramienta, en donde se ofrece de mayor precisión al respecto.
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo1_Hoja_de_kardex.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -721,7 +721,7 @@
                 td 8%
                 td 33%
 
-    p(data-aos="fade-left") La estimación de todos los costos asociados a un trabajador, suelen llevarse a una hoja de trabajo conocida como nómina. Allí, se detallan todos los rubros que comprenden los pagos y prestaciones de cada trabajador, de tal forma que tenga claridad sobre los costos totales asociados a la relación laboral. Una vez se cuenta con esta información, es posible asignarle un valor a cada hora trabajada, en función de las horas totales del mes. Para ejemplificar lo anterior se presenta el siguiente caso, ver tabla:
+    p(data-aos="fade-left") La estimación de todos los costos asociados a un trabajador, suelen llevarse a una hoja de trabajo conocida como nómina. Allí, se detallan todos los rubros que comprenden los pagos y prestaciones de cada trabajador, de tal forma que tenga claridad sobre los costos totales asociados a la relación laboral. Una vez se cuenta con esta información, es posible asignarle un valor a cada hora trabajada, en función de las horas totales del mes. Para ejemplificar lo anterior se presenta el siguiente caso, ver tabla 6:
     p(data-aos="fade-left") Calcular el costo de mano de obra de un producto que requiere 1 hora de trabajo de los siguientes dos operarios:
 
     .row.justify-content-center.mb-5 
@@ -1104,7 +1104,6 @@
     .row.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4.mb-4
-          .h5 Cajón texto color
           p El costo unitario es el resultado del costo total de la orden de producción dividido en el número de unidades producidas, con los datos aquí presentados es posible determinar el valor de la utilidad bruta de la granja, puesto que si se supone un precio de venta de $ 1.000 por litro de leche, de forma rápida puede identificarse el beneficio unitario (1.000 – 748= $ 252) o global (4.000.000 – 2.993.000 = $ 1.007.000).
           
               
