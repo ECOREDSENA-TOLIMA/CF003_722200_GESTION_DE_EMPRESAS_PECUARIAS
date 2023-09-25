@@ -250,7 +250,7 @@
 
     .row.justify-content-center
       .col-10.mt-5
-        h5(data-aos="fade-left") • Marketing estratégico
+        h5(data-aos="fade-left") • #[i Marketing ]estratégico
 
     .row.justify-content-center 
       .col-sm-3
@@ -272,7 +272,7 @@
 
     .row.justify-content-center
       .col-10.mt-5
-        h5(data-aos="fade-left") • Marketing operativo
+        h5(data-aos="fade-left") • #[i Marketing ]operativo
         p(data-aos="fade-left") En esta fase se materializan las estrategias propuestas, puesto que se finaliza el diseño, y se implementan las tareas definidas. Previo y durante la etapa de ejecución se debe llevar un control de las expensas necesarias para actualizar el control presupuestal y tener claridad sobre la disponibilidad del efectivo de manera permanente.
         p(data-aos="fade-left") El marketing operativo comprende 4 pasos en los que se hace uso de toda la información recolectada en el marketing analítico y estratégico:
 
@@ -697,29 +697,29 @@
             tbody.text-center
               tr
                 td Pensiones
-                td 12%
-                td 4%
-                td 16%
+                td 12 %
+                td 4 %
+                td 16 %
               tr
                 td Salud
-                td 8,5%
-                td 4%
-                td 12,5%
+                td 8,5 %
+                td 4 %
+                td 12,5 %
               tr
                 td Riesgos laborales- Nivel I
-                td 0,5%
+                td 0,5 %
                 td
-                td 0,5%
+                td 0,5 %
               tr
                 td Cajas de compensación
-                td 4%
+                td 4 %
                 td
-                td 4%
+                td 4 %
               tr.text-bold
                 td Total
-                td 25%
-                td 8%
-                td 33%
+                td 25 %
+                td 8 %
+                td 33 %
 
     p(data-aos="fade-left") La estimación de todos los costos asociados a un trabajador, suelen llevarse a una hoja de trabajo conocida como nómina. Allí, se detallan todos los rubros que comprenden los pagos y prestaciones de cada trabajador, de tal forma que tenga claridad sobre los costos totales asociados a la relación laboral. Una vez se cuenta con esta información, es posible asignarle un valor a cada hora trabajada, en función de las horas totales del mes. Para ejemplificar lo anterior se presenta el siguiente caso, ver tabla 6:
     p(data-aos="fade-left") Calcular el costo de mano de obra de un producto que requiere 1 hora de trabajo de los siguientes dos operarios:
@@ -1060,7 +1060,7 @@
             .cajon.p-4.mb-2(style="background-color:#DBF9BD")(data-aos="flip-up") 
               p.text-small Se espera estimar un costo de producción distinto para cada pedido, por lo que es común ver la aplicación de este tipo de metodologías en unidades productivas que no mantienen una línea de producción estandarizada o permanente.
             .cajon.p-4.mb-2(style="background-color:#DBF9BD")(data-aos="flip-up") 
-              p.text-small Se hace necesaria una planificación previo inicio de la producción, puesto que el alistamiento del material y el diligenciamiento de la orden de producción varía de acuerdo con las unidades que se esperan producir
+              p.text-small Se hace necesaria una planificación previo inicio de la producción, puesto que el alistamiento del material y el diligenciamiento de la orden de producción varía de acuerdo con las unidades que se esperan producir.
             .cajon.p-4.mb-2(style="background-color:#DBF9BD")(data-aos="flip-up") 
               p.text-small La producción requiere de un pedido previo, lo que implica, que si no se efectúan ventas, los niveles de producción se reducirán al mínimo. El trabajo por encargo suele optimizar en costos de bodegaje o almacenamiento, pero los costos se pueden ver castigados por la capacidad ociosa de la planta.
 
