@@ -661,19 +661,19 @@
             tbody.text-center
               tr
                 td Vacaciones
-                td 4,17%
+                td 4,17 %
               tr
                 td Cesantías
-                td 8,33%
+                td 8,33 %
               tr
                 td Prima de servicios
-                td 8,33%
+                td 8,33 %
               tr
                 td Intereses a las cesantías
-                td 1%
+                td 1 %
               tr
                 td #[b Total]
-                td #[b 21,83%]
+                td #[b 21,83 %]
 
     .row.justify-content-center 
       .col-10
