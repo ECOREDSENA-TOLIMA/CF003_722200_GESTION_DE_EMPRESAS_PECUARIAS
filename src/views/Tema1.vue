@@ -157,28 +157,28 @@
             thead.text-center(style="background-color:#3B5620")
               tr.text-white
                 th Tamaño de la empresa / sector
-                th Menores o iguales a 23.563.
+                th Manufactura
                 th Servicios
                 th Comercio
             tbody
               tr
                 td #[b Microempresa]
-                td Mayores a 23.563 y menores o iguales a 204.995.
+                td Menores o iguales a 23.563.
                 td Menores o iguales a 32.988.
                 td Menores o iguales a 44.769.
               tr
                 td #[b Pequeña]
-                td Mayores a 204.995 y menores o iguales a 1'736.565.
+                td Mayores a 23.563 y menores o iguales a 204.995.
                 td Mayores a 32.988 y menores o iguales a 131.951.
                 td Mayores a 44.769 y menores o iguales a 431.196.
               tr
                 td #[b Mediana]
-                td Mayores a 1'736.565.
+                td Mayores a 204.995 y menores o iguales a 1'736.565.
                 td Mayores a 131.951 y menores o iguales a 483.034.
                 td Mayores a 431.196 y menores o iguales a 2.160.692.
               tr
                 td #[b Grande]
-                td S.A.
+                td Mayores a 1'736.565.
                 td Mayores a 483.034.
                 td Mayores a 2.160.692.
     

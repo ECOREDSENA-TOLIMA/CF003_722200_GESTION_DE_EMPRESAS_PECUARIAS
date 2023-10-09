@@ -258,7 +258,7 @@
           img(src='@/assets/curso/temas/tema2/13.jpg', alt='Texto que describa la imagen')
       .col-sm-7
         p(data-aos="fade-left") una vez se ha recopilado toda la información relevante para la gestión comercial, se procede a la postulación de metas que puedan ser alcanzados con los recursos disponibles. A partir de ello, se plantean las estrategias que represente una mayor relación costo – beneficio y se estructuran incluyendo los objetivos específicos y las tareas a desarrollar.
-        p(data-aos="fade-left") En primer lugar, se debe estimar la demanda a partir de la información recolectada, por ejemplo si se espera tener una participación del 10% del mercado, y en la población abordada se venden 1.000 unidades de productos similares, la meta de ventas debe ser de 100 unidades en el periodo de tiempo definido. A partir de ello se define la fuerza de ventas que será necesaria, y la implementación de medidas adicionales asociadas a cobertura, publicidad, distribución entre otros.
+        p(data-aos="fade-left") En primer lugar, se debe estimar la demanda a partir de la información recolectada, por ejemplo, si se espera tener una participación del 10 % del mercado, y en la población abordada se venden 1.000 unidades de productos similares, la meta de ventas debe ser de 100 unidades en el periodo de tiempo definido. A partir de ello se define la fuerza de ventas que será necesaria, y la implementación de medidas adicionales asociadas a cobertura, publicidad, distribución entre otros.
   
     .row.justify-content-center
       .tarjeta.p-4(style="background-color:#3B5620")(data-aos="flip-up")
@@ -274,7 +274,7 @@
       .col-10.mt-5
         h5(data-aos="fade-left") • #[i Marketing ]operativo
         p(data-aos="fade-left") En esta fase se materializan las estrategias propuestas, puesto que se finaliza el diseño, y se implementan las tareas definidas. Previo y durante la etapa de ejecución se debe llevar un control de las expensas necesarias para actualizar el control presupuestal y tener claridad sobre la disponibilidad del efectivo de manera permanente.
-        p(data-aos="fade-left") El marketing operativo comprende 4 pasos en los que se hace uso de toda la información recolectada en el marketing analítico y estratégico:
+        p(data-aos="fade-left") El #[i marketing] operativo comprende 4 pasos en los que se hace uso de toda la información recolectada en el #[i marketing] analítico y estratégico:
 
     .row.justify-content-center 
       .col-10
@@ -293,7 +293,7 @@
         figure(data-aos="flip-up")
           img(src='@/assets/curso/temas/tema2/16.svg', alt='Texto que describa la imagen')
       .col-sm-9
-        p #[b Comunicación:] aborda todos los canales para la transmisión de información, esto incluye la comunicación asertiva entre los funcionarios de las diversas áreas que colaboran para la elaboración, distribución y venta de bienes, así como la debida retroalimentación obtenida por parte de los consumidores. Es recomendable apoyarse en las tecnologías de la información para facilitar el proceso, haciendo uso de herramientas contempladas en el marketing digital como la gestión redes sociales o mensajería instantánea.
+        p #[b Comunicación:] aborda todos los canales para la transmisión de información, esto incluye la comunicación asertiva entre los funcionarios de las diversas áreas que colaboran para la elaboración, distribución y venta de bienes, así como la debida retroalimentación obtenida por parte de los consumidores. Es recomendable apoyarse en las tecnologías de la información para facilitar el proceso, haciendo uso de herramientas contempladas en el #[i marketing] digital como la gestión redes sociales o mensajería instantánea.
 
       .col-10
         <hr style="border:15px;">
@@ -386,7 +386,7 @@
         figure(data-aos="flip-up")
           img(src='@/assets/curso/temas/tema2/23.jpg', alt='Texto que describa la imagen')
       .col-sm-7
-        p La mano de obra se constituye como el segundo elemento de los costos de producción, al cual se asigna el valor del trabajo realizado por las personas que se involucran con la producción y transformación de los insumos. Al igual que la materia prima, puede clasificarse como directa o indirecta
+        p La mano de obra se constituye como el segundo elemento de los costos de producción, al cual se asigna el valor del trabajo realizado por las personas que se involucran con la producción y transformación de los insumos. Al igual que la materia prima, puede clasificarse como directa o indirecta.
         p En principio, aquellos funcionarios cuya labor es trabajar transformando los insumos, son considerados mano de obra directa, por ejemplo, el operario encargado de ordeñar las vacas en una granja pecuaria. Por otro lado, la mano de obra indirecta incluye la labor desempeñada por trabajadores de apoyo o dirección del área, pero sin participar directamente sobre la producción. Ejemplo de esto son los vigilantes o supervisores de las áreas donde se encuentra el área de producción.
 
     .row.justify-content-center.mt-5
@@ -423,15 +423,15 @@
             figure(data-aos="flip-up")
               img(src='@/assets/curso/temas/tema2/26.svg', alt='Texto que describa la imagen')
               
-          div(x="18%" y="19.5%" tooltip="tooltip de max 35 caracteres" numero="")
+          div(x="18%" y="19.5%" tooltip="Planeación" numero="")
             h5 Según su uso en planeación
             p En primer lugar, están los costos estimados, que surgen de metodologías de análisis y observación. No son exactos y su margen de error está condicionado al nivel de detalle en la que se haya efectuado los procedimientos de cálculos. Son aplicables a los insumos que no son materiales en el proceso de elaboración. En segundo lugar, se ubican los costos estándar, utilizados en empresas con volúmenes de producción significativos y bajo un sistema altamente repetitivo. Analizan la información histórica disponible, y anticipan el costo de producción a partir de ello, su margen de error suele ser muy bajo dado que trabajan con variables ya conocidas.
 
-          div(x="81.7%" y="19.5%" tooltip="tooltip de max 35 caracteres" numero="")
+          div(x="81.7%" y="19.5%" tooltip="Producción" numero="")
             h5 Según su relación con la producción
             p Bajo este modelo, los costos se discriminan en variables, que son aquellos que tienen una relación directa con las unidades producidas, por ejemplo, a mayor cantidad de camisas a producir, mayor la cantidad de tela a utilizar. Como contraparte están los costos fijos, que no se ven afectados por la producción, aquí podemos encontrar rubros como el salario de las aseadoras de planta de producción.
 
-          div(x="49.6%" y="93.3%" tooltip="tooltip de max 35 caracteres" numero="")
+          div(x="49.6%" y="93.3%" tooltip="Producto" numero="")
             h5 Según su relación con el producto
             p La regla aplicable a este sistema nos lleva a determinar si existe o no una relación directa entre el insumo y la generación del producto terminado. Se consideran directos los costos asignables a un producto en específico, como lo sería la materia prima objeto de transformación, o el salario pagado al operario que trabaja en una línea de producción en concreto. Los costos indirectos, por su parte, corresponden a aquellos que, aunque tienen relación con la producción, son comunes a varios tipos de productos o cuesta asignarlos de forma directa a uno en específico.
 
@@ -628,7 +628,7 @@
                     img(src='@/assets/curso/temas/tema2/38.svg', alt='Texto que describa la imagen')
 
               h3.text-center Intereses a las cesantías
-              p.text-small Todo patrono obligado a pagar cesantía a sus trabajadores conforme al Capítulo VII Título VIII, Parte 1ª, del Código Sustantivo del Trabajo y demás disposiciones concordantes, les reconocerá y pagará intereses del 12% anual sobre los saldos que en 31 de diciembre de cada año, o en las fechas de retiro del trabajador o de liquidación parcial de cesantía, tenga este a su favor por concepto de cesantía (Ley 52, 1975, Artículo 1).
+              p.text-small Todo patrono obligado a pagar cesantía a sus trabajadores conforme al Capítulo VII Título VIII, Parte 1ª, del Código Sustantivo del Trabajo y demás disposiciones concordantes, les reconocerá y pagará intereses del 12 % anual sobre los saldos que en 31 de diciembre de cada año, o en las fechas de retiro del trabajador o de liquidación parcial de cesantía, tenga este a su favor por concepto de cesantía (Ley 52, 1975, Artículo 1).
 
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#DBF9BD; height:100%")
@@ -1033,7 +1033,7 @@
       h2#t_2_7 2.7 Órdenes de producción
 
     p(data-aos="fade-left") Las órdenes de producción, también conocidas como órdenes de pedido, suelen ser utilizadas en empresas en las que la línea de producción no opera de manera permanente. Bajo este sistema, la determinación del coste de un lote de producto terminado se estima de forma independiente a otros, por lo que pueden existir variaciones en el costo de venta unitario entre una y otra orden.
-    p(data-aos="fade-left") Este sistema ofrece una gran utilidad en unidades productivas que trabajan por encargo, puesto que las mediciones varían en función de la situación actual. El siguiente formato propone un esquema para utilizar bajo esta metodología; su diligenciamiento suele ser precedido por una solicitud comercial, es decir, el área de ventas indica la unidad de productos vendidos, y de cara a esto, el departamento de producción determina el costo unitario de cara a las exigencias presentadas, ver tabla
+    p(data-aos="fade-left") Este sistema ofrece una gran utilidad en unidades productivas que trabajan por encargo, puesto que las mediciones varían en función de la situación actual. El siguiente formato propone un esquema para utilizar bajo esta metodología; su diligenciamiento suele ser precedido por una solicitud comercial, es decir, el área de ventas indica la unidad de productos vendidos, y de cara a esto, el departamento de producción determina el costo unitario de cara a las exigencias presentadas, ver tabla.
 
     .titulo-sexto.color-acento-contenido.offset-2
       h5 Tabla 11
