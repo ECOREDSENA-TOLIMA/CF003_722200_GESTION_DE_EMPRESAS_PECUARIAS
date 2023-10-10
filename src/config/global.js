@@ -285,8 +285,10 @@ export default {
         'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
     },
     {
-      referencia: 'Código de Comercio, 1971, Artículo 25.',
-      link: '',
+      referencia:
+        'Instituto Nacional de Contadores Públicos INCP Colombia (1971) artículo 25 Código de Comercio. Concepto empresa.',
+      link:
+        'https://incp.org.co/Site/productosyservicios/legislativa/410/l1410.htm',
     },
   ],
   creditos: [

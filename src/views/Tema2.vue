@@ -423,15 +423,15 @@
             figure(data-aos="flip-up")
               img(src='@/assets/curso/temas/tema2/26.svg', alt='Texto que describa la imagen')
               
-          div(x="18%" y="19.5%" tooltip="Planeación" numero="")
+          div(x="49.6%" y="93.3%" tooltip="Según su uso en planeación" numero="") 
             h5 Según su uso en planeación
             p En primer lugar, están los costos estimados, que surgen de metodologías de análisis y observación. No son exactos y su margen de error está condicionado al nivel de detalle en la que se haya efectuado los procedimientos de cálculos. Son aplicables a los insumos que no son materiales en el proceso de elaboración. En segundo lugar, se ubican los costos estándar, utilizados en empresas con volúmenes de producción significativos y bajo un sistema altamente repetitivo. Analizan la información histórica disponible, y anticipan el costo de producción a partir de ello, su margen de error suele ser muy bajo dado que trabajan con variables ya conocidas.
 
-          div(x="81.7%" y="19.5%" tooltip="Producción" numero="")
+          div(x="18%" y="19.5%" tooltip="Según su relación con la producción" numero="") 
             h5 Según su relación con la producción
             p Bajo este modelo, los costos se discriminan en variables, que son aquellos que tienen una relación directa con las unidades producidas, por ejemplo, a mayor cantidad de camisas a producir, mayor la cantidad de tela a utilizar. Como contraparte están los costos fijos, que no se ven afectados por la producción, aquí podemos encontrar rubros como el salario de las aseadoras de planta de producción.
 
-          div(x="49.6%" y="93.3%" tooltip="Producto" numero="")
+          div(x="81.7%" y="19.5%" tooltip="Según su relación con el producto" numero="") 
             h5 Según su relación con el producto
             p La regla aplicable a este sistema nos lleva a determinar si existe o no una relación directa entre el insumo y la generación del producto terminado. Se consideran directos los costos asignables a un producto en específico, como lo sería la materia prima objeto de transformación, o el salario pagado al operario que trabaja en una línea de producción en concreto. Los costos indirectos, por su parte, corresponden a aquellos que, aunque tienen relación con la producción, son comunes a varios tipos de productos o cuesta asignarlos de forma directa a uno en específico.
 
